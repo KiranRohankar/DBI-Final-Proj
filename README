@@ -20,3 +20,6 @@ For those who use Solaris machines, do not delete included lex.yy.c, otherwise, 
 link error.
 
 I tested this code on a Mac OS X machine, and it also works in Linux with little modification.
+
+Authored by Yahui Han
+hanyahui808@gmail.com
