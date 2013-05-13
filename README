@@ -12,6 +12,11 @@ or      make yhsql
 
 To run the driver, type 'yhsql' followed by the query clause
 
+Configuration:
+==================
+Any configuration is in file 'configuration' and refer main file.
+Note you should create your own DBI_Data folder and 1G and 10M within it.
+Copy the .tbl file into each corresponding folder.
 
 Using the Driver:
 ==================
