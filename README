@@ -1,0 +1,22 @@
+==============================================================================
+05132013
+
+readme 
+=========
+
+This driver is for the whole project(including Query Compiler)
+
+To compile the driver, type
+	make 
+or      make yhsql
+
+To run the driver, type 'yhsql' followed by the query clause
+
+
+Using the Driver:
+==================
+
+For those who use Solaris machines, do not delete included lex.yy.c, otherwise, there may have
+link error.
+
+I tested this code on a Mac OS X machine, and it also works in Linux with little modification.

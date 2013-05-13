@@ -1,0 +1,19 @@
+RELATION
+orders 1500000
+o_orderkey 1500000
+o_custkey 150000
+END
+RELATION
+lineitem 6001215
+l_orderkey 1500000
+END
+RELATION
+customer 150000
+c_nationkey 25
+c_custkey 150000
+c_mktsegment 5
+END
+RELATION
+nation 25
+n_nationkey 25
+END
